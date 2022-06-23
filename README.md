@@ -1,2 +1,2 @@
-# 3fa0-str3ss
+# 3fa0-simply-str3ss
 Simply Ping Stresser
