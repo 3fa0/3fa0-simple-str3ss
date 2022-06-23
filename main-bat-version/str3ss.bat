@@ -28,7 +28,7 @@ timeout 1 > NUL
 echo Loading assets
 for /l %%a in (1,1,120) do echo|set /p="#"
 
-start cmd /C ping %IP% -n %RQST% -l %SIZE%
+ping %IP% -n %RQST% -l %SIZE%
 
 
 pause >nul     
